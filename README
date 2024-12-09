@@ -1,0 +1,29 @@
+# React Login Form
+
+This repository contains a **React Login Form** built using React.js. The form is styled with modern design principles and includes basic input validation for username and password fields.
+
+## Features
+
+- Responsive design for all screen sizes
+- Input validation for username and password fields
+- Reusable and modular components
+- Clean and well-documented code
+
+## Demo
+
+![React Login Form Demo](./assets/demo-image.png)  
+_A screenshot of the React Login Form_
+
+## Technologies Used
+
+- **React.js**: For building the UI components
+- **CSS/SCSS**: For styling the form
+- **Formik/Yup** *(Optional)*: For form handling and validation
+- **Axios/Firebase** *(Optional)*: For backend API integration (if applicable)
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/react-login-form.git
+   cd react-login-form

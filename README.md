@@ -32,7 +32,4 @@ This login page features a **modern and minimalistic design** with a **gradient 
 ## Usability
 The design ensures simplicity and ease of use, making it accessible for users across all devices.
 
-<center>
-[Resonant Unicorn](https://resonant-unicorn-789401.netlify.app/)
-</center>
 

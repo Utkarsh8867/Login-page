@@ -29,7 +29,5 @@ This login page features a **modern and minimalistic design** with a **gradient 
 - **Form Layout**: Centrally aligned with clear and spacious fields.
 - **Buttons**: Contrasting black "Login" button with white text for emphasis.
 
-## Usability
-The design ensures simplicity and ease of use, making it accessible for users across all devices.
 
 
